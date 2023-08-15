@@ -29,6 +29,9 @@ Here's a walkthrough of implemented features:
 
 https://drive.google.com/file/d/1y9PbgUzT_U6kxPABArdesHvSyh2QeSND/view?usp=drive_link
 
+![Gif](https://drive.google.com/file/d/1y9PbgUzT_U6kxPABArdesHvSyh2QeSND/view?usp=drive_link
+)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
