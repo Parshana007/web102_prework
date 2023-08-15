@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://imgur.com/ZsuspvF)
+![Video Walkthrough](https://i.imgur.com/ZsuspvF.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  liceApp
